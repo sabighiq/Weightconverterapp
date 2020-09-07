@@ -1,0 +1,23 @@
+body{
+    margin-top:70px;
+    background:#333;
+    color:#fff;
+}
+.hero{
+    background-color: #4C8BF5;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+.heroine{
+    background-color: #ff414e;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+.villian{
+    background-color: #12343b;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
